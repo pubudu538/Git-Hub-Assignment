@@ -1,0 +1,10 @@
+public class HelloWorld{
+
+   public static void main(String []arg)
+        {
+		System.out.println("Thank You very mych hSenid!!");
+		System.out.println("Friday is a day what we learn new things!!!");
+	}
+
+}
+
