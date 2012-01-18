@@ -1,12 +1,12 @@
 public class Dog implements PetDog {
 
 	public void eat() {
-		System.out.println("I'm eating");
+		System.out.println("I eat meat");
 	}
 
 	@Override
 	public void walk() {
-		System.out.println("I'm walking");
+		System.out.println("I walk to find food");
 	}
 
 	public int countLegs() {
